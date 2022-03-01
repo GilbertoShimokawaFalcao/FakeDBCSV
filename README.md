@@ -1,7 +1,7 @@
 # FakeDBCSV
 FakeDBCSV pt-BR By Gilberto Shimokawa Falcão
 
-Solução paliativa - Quer criar um sisteminha rápido ou simplesmente fazer uns testes e salvar umas tabelinhas sem muito problema? Sem ter que ficar levantando um banco de dados para fazer uns testes? Então o FakeDBCSV é para você!
+Solução paliativa (Only avaliable on C# - sharp)- Quer criar um sisteminha rápido ou simplesmente fazer uns testes e salvar umas tabelinhas sem muito problema? Sem ter que ficar levantando um banco de dados para fazer uns testes? Então o FakeDBCSV é para você!
 
 Por ser feito para CSV abre em qualquer computador, até utilizando bloco de notas! O que facilita muito caso não tenha o excel.
 
